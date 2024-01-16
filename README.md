@@ -2,7 +2,11 @@
 
 **Description:**
 
-* ERP system using PHP and MySQL to insert, update, delete and search system data. 
+* ERP system using PHP and MySQL to insert, update, delete and search system data.
+
+**Overview:**
+* The assigned project involves the development of an ERP system utilizing PHP and MySQL for efficient management of system data operations such as insertion, updating, deletion, and searching. The system is designed with a user-friendly front end employing Bootstrap, CSS, and JavaScript to implement the CRUD operations seamlessly. The system addresses three main modules: Customer, Item, and Reports.
+This ERP system aims to provide a robust and user-friendly interface for effective management and reporting of customer and item data, meeting the specified requirements outlined in the project.
 
 **Prerequisites:**
 
